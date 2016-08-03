@@ -4,7 +4,7 @@ require "administrate/field/image_version"
 
 Gem::Specification.new do |gem|
   gem.name = "administrate-field-image"
-  gem.version = 0.0.2 # Administrate::Field::Image::VERSION
+  gem.version = "0.0.2" # Administrate::Field::Image::VERSION
   gem.authors = ["Grayson Wright"]
   gem.email = ["wright.grayson@gmail.com"]
   gem.homepage = "https://github.com/graysonwright/administrate_field_image"
