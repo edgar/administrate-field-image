@@ -1,5 +1,4 @@
 require "administrate/field/base"
-require "image_version"
 require "rails"
 
 module Administrate
